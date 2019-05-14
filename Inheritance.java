@@ -22,8 +22,10 @@ public class Inheritance
     Child c = new Child();
     c.display();
     c.print_class_name();
+    
     Parent p = new Parent();
     p.print_class_name();
+    
   }
 }
 
