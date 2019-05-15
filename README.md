@@ -1,2 +1,2 @@
 # ObjectOrientedConcepts
-Implementation of Object Oriented Concepts using Java
+OOP - Inheritance, Encapsulation, Abstraction, Polymorphism, Interface, Overloading, Overriding
